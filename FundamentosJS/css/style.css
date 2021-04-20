@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #F7F265;
+    color: #787755;
+    height: 75vh;
+    position: relative;
+}
+
+.header__title {
+    position: absolute;
+    
+}
